@@ -1,0 +1,2 @@
+# CalculadoraSimple
+Leaning C# basics
